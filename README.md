@@ -1,2 +1,2 @@
 # GeostrophicCurrentExperiment
-An experiment on predicting next 7-days of geostrophic current velocities with ANN, GraphSage-based model, and MLP-FNO
+This study investigates the prediction of geostrophic current velocities for the next seven days using three distinct machine learning models: Artificial Neural Networks (ANN), a GraphSage-based model, and a Multilayer Perceptron Fourier Neural Operator (MLP-FNO). By comparing the performance of these models, we aim to determine the most effective approach for forecasting geostrophic currents within a week's timeframe.
