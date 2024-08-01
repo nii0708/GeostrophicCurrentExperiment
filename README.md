@@ -15,13 +15,14 @@ Graph based architecture:
 ![image](https://github.com/user-attachments/assets/195bb700-5aac-4162-9da5-fab4f64f97ed)
 
 Folder Structure:
+```
 playground
--construct_data.ipynb (contructing data for the model ADT + velocities)
--MLP_model_playground (MLP MODEL)
--GraphSage_model_playground (Graph MODEL)
--FNO_model_playground (FNO MODEL)
--Eval.ipynb (evaluating models)
-
+|- construct_data.ipynb (contructing data for the model ADT + velocities)
+|- MLP_model_playground (MLP MODEL)
+|- GraphSage_model_playground (Graph MODEL)
+|- FNO_model_playground (FNO MODEL)
+|- Eval.ipynb (evaluating models)'
+```
 
 References:
 Gopakumar, V., Pamela, S., Zanisi, L., Li, Z., Gray, A., Brennand, D., ... & MAST Team. (2024). Plasma surrogate modelling using Fourier neural operators. Nuclear Fusion, 64(5), 056025.
