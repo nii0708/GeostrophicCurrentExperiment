@@ -1,4 +1,6 @@
 # GeostrophicCurrentExperiment
+Geostrophic currents, driven by a balance between the Coriolis force and pressure gradients, are pivotal in shaping our planet. They act as the ocean's circulatory system, transporting heat from equatorial regions to higher latitudes, influencing global climate patterns. These currents also play a crucial role in marine ecosystems by facilitating nutrient upwelling, supporting biodiversity, and impacting fisheries. Furthermore, they are essential for navigation, offshore operations, and pollution management. In essence, geostrophic currents are the underlying force driving much of the ocean's dynamics, with far-reaching consequences for our planet and human activities
+
 This study investigates the prediction of geostrophic current velocities for the next seven days using three distinct machine learning models: MLP (Multi Layer Perceptrons), a GraphSage-based model, and a Multilayer Perceptron Fourier Neural Operator (MLP-FNO). By comparing the performance of these models, we aim to determine the most effective approach for forecasting geostrophic currents within a week's timeframe.
 
 Methods:
